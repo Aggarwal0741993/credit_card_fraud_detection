@@ -83,11 +83,3 @@ XGBClassifier(
 2. Upload or download `creditcard.csv` dataset
 3. Open `credit_card_fraud.ipynb` in Colab or Jupyter
 4. Run all cells — training, tuning, and final evaluation are included
-
----
-
-## **Author**
-
-**Shubham Gautam**  
-_Data Science & ML Enthusiast_  
-[LinkedIn Profile](#) *(optional)*
